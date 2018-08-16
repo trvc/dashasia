@@ -1,0 +1,16 @@
+[
+    {
+        "code": "KUL",
+        "name": "Kuala Lumpur",
+        "img": "./img/kualalumpur.jpg",
+        "day": "5D4N",
+        "price": 18000
+    },
+    {
+        "code": "SGP",
+        "name": "Singapore",
+        "img": "./img/singapore.jpg",
+        "day": "7D6N",
+        "price": 28000
+    }
+]
